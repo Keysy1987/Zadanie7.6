@@ -1,0 +1,22 @@
+/* GENERAL STYLES */
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+* {
+  box-sizing: border-box;
+  text-align: center;
+  margin-top: 40px;
+  color: #f1c40f;
+  background-color: #008080;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+/* CONTAINER */
+
+.container {
+  margin: auto;
+	max-width: 700px;
+}
